@@ -1,0 +1,6 @@
+print("Sinh vien:Nguyễn Danh Ánh")
+print("Mssv:235752021610023")
+ho_ten = input("Nhập họ và tên: ").strip()
+ho, ten = ho_ten.split()
+print("Họ:", ho)
+print("Tên riêng:", ten)
